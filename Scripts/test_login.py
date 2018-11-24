@@ -27,6 +27,7 @@ class TestLogin():
 
     def test_login(self,value1,value2):
         allure.attach('输入用户名')
+        #啦啦啦
         #输入用户名
         self.login.page_input_usename(value1)
         allure.attach('输入密码')
