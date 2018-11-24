@@ -1,0 +1,8 @@
+use1:
+  usename: '张三'
+  password: 'lkj'
+  expect_toast: '错误'
+use2:
+  usename: 'haha'
+  password: 'aldk'
+  expect_toast: 'sd'

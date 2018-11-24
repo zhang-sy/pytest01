@@ -1,0 +1,25 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "FixtureLookupError: ('value1', <FixtureRequest for <Function 'test_login'>>)",
+      "children" : [ {
+        "name" : "TestLogin.test_login",
+        "uid" : "c002b02a8cb897ff",
+        "parentUid" : "01369db1dcb1bdcc7a5203dfa2dad60d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1542874687816,
+          "stop" : 1542874687825,
+          "duration" : 9
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "01369db1dcb1bdcc7a5203dfa2dad60d"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

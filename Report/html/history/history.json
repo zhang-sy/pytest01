@@ -1,0 +1,22 @@
+{
+  "38d144ce872e7933098c3eb8a9595566" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c002b02a8cb897ff",
+      "status" : "broken",
+      "statusDetails" : "FixtureLookupError: ('value1', <FixtureRequest for <Function 'test_login'>>)",
+      "time" : {
+        "start" : 1542874687816,
+        "stop" : 1542874687825,
+        "duration" : 9
+      }
+    } ]
+  }
+}

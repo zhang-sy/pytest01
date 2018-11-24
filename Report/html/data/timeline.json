@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-3EPN8KM",
+    "children" : [ {
+      "name" : "7824-MainThread",
+      "children" : [ {
+        "name" : "TestLogin.test_login",
+        "uid" : "c002b02a8cb897ff",
+        "parentUid" : "f10cf099026331183a5ce2b1f73a40ee",
+        "status" : "broken",
+        "time" : {
+          "start" : 1542874687816,
+          "stop" : 1542874687825,
+          "duration" : 9
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f10cf099026331183a5ce2b1f73a40ee"
+    } ],
+    "uid" : "464969eff7139b2630467f5d59656fc1"
+  } ]
+}
